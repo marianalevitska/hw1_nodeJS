@@ -1,0 +1,16 @@
+{
+    "name": "hw1_nodeJS",
+    "version": "0.01",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "dev": "nodemon index"
+    },
+    "dependencies": {
+        "bson-objectid": "^2.0.3",
+        "yargs": "^17.6.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
